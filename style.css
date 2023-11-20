@@ -42,7 +42,7 @@ html {
 
   .sliderPPrice {
     position: absolute;
-    display: inline-block;
+    /* display: inline-block; */
     background-color: rgb(7, 14, 119); /* Set the background color */
     color: #ffffff; /* Set the text color */
     padding: 10px; /* Adjust padding as needed */
