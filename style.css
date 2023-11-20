@@ -39,6 +39,15 @@ html {
     border: none;
     background-color: transparent;
   }
+
+  .sliderPrice {
+    display: inline-block;
+    background-color: #3498db; /* Set the background color */
+    color: #ffffff; /* Set the text color */
+    padding: 10px; /* Adjust padding as needed */
+    border-radius: 15px; /* Create a rounded shape */
+    text-align: center; /* Center the text */
+}
   
   .searchInput::placeholder {
     color: lightgray;
