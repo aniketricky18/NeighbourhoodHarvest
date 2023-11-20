@@ -32,7 +32,7 @@ html {
     align-items: center;
     background-color: gray;
     padding: 10px 20px;
-    border-radius: 50px;
+    border-radius: 10px;
   }
   
   .searchInput {
@@ -42,10 +42,10 @@ html {
 
   .sliderPrice {
     display: inline-block;
-    background-color: #3498db; /* Set the background color */
+    background-color: rgb(7, 14, 119); /* Set the background color */
     color: #ffffff; /* Set the text color */
     padding: 10px; /* Adjust padding as needed */
-    border-radius: 15px; /* Create a rounded shape */
+    border-radius: 50px; /* Create a rounded shape */
     text-align: center; /* Center the text */
 }
   
